@@ -2,7 +2,6 @@
 - 👀 I’m interested in Tech, Music and Lifestyle
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Blockchain projects
-- 📫 How to reach me https://twitter.com/heydamali
 
 <!---
 heydamali/heydamali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
