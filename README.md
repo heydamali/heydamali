@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @heydamali
-- 👀 I’m interested in Tech, Music and Lifestyle
-- 🌱 I’m currently learning Blockchain
+- 👀 I’m interested in DeFi, Crypto and everything Blockchain
 - 💞️ I’m looking to collaborate on Blockchain projects
 
 <!---
